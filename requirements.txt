@@ -1,6 +1,2 @@
 pandas
 streamlit
-<<<<<<< HEAD:requirements (2).txt
-=======
-
->>>>>>> f34a552174f5c69977ac48fbb35d7f691ed7a296:requirements.txt
