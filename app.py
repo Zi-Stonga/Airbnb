@@ -7,7 +7,7 @@ from pandas.api.types import (
     is_object_dtype
 )
 
-st.title("Interactive Airbnb dataframe: Filter below!")
+st.title("Interactive Airbnb Data Filter App")
 
 
 
